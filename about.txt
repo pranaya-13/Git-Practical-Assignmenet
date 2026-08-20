@@ -1,0 +1,5 @@
+About Me
+
+My name is Pranaya Gaonkar. I am a student of SY Data Science. 
+I am currently learning Git and GitHub as part of my practical work. 
+This practical helped me understand how to create repositories, track files, make commits, and work with GitHub.
